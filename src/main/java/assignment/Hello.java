@@ -3,8 +3,8 @@ package assignment;
 public class Hello {
 
     public String printhei() {
-        System.out.println("Not the right string, tests will fail!");
-        return "Hoho";
+        System.out.println("Hello World!");
+        return "Heiho";
     }
     public static void main(String[] args) {
         Hello h = new Hello();

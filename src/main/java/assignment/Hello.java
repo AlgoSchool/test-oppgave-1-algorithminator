@@ -3,7 +3,7 @@ package assignment;
 public class Hello {
 
     public String printhei() {
-        System.out.println("No the right string, tests will fail!");
+        System.out.println("Hello World!");
         return "Hoho";
     }
     public static void main(String[] args) {

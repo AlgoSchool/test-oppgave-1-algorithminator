@@ -4,7 +4,7 @@ public class Hello {
 
     public String printhei() {
         System.out.println("Hello World!");
-        return "Hoho";
+        return "Heiho";
     }
     public static void main(String[] args) {
         Hello h = new Hello();
